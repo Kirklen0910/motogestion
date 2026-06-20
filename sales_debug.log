@@ -1,0 +1,12 @@
+2026-06-12 18:44:05 - Carrito recibido: [{"product_id":"5","name":"Clavos Galvanizados","code":"005","qty":100,"price":5,"stock":24046,"image":"\/uploads\/products\/6a2c79b539f0d.jpg","subtotal":500},{"product_id":"3","name":"Bloque de Cemento 8\"","code":"003","qty":10,"price":24,"stock":398,"image":"\/uploads\/products\/6a2c82ae664ef.jpg","subtotal":240},{"product_id":"4","name":"Metro","code":"004","qty":2,"price":100,"stock":200,"image":"\/uploads\/products\/6a2c78030711b.jpg","subtotal":200}]
+2026-06-12 18:44:05 - Producto: Clavos Galvanizados - Stock actual: 24046 - Vendiendo: 100
+2026-06-12 18:44:05 - Producto: Bloque de Cemento 8" - Stock actual: 398 - Vendiendo: 10
+2026-06-12 18:44:05 - Producto: Metro - Stock actual: 200 - Vendiendo: 2
+2026-06-12 18:44:05 - Venta creada ID: 15 - Factura: INV-20260612-549
+2026-06-12 18:44:05 - Detalle insertado - Producto ID: 5 - Cantidad: 100
+2026-06-12 18:44:05 - Stock actualizado - Producto ID: 5 - Nuevo stock: 23946
+2026-06-12 18:44:05 - Detalle insertado - Producto ID: 3 - Cantidad: 10
+2026-06-12 18:44:05 - Stock actualizado - Producto ID: 3 - Nuevo stock: 388
+2026-06-12 18:44:05 - Detalle insertado - Producto ID: 3 - Cantidad: 10
+2026-06-12 18:44:05 - Stock actualizado - Producto ID: 3 - Nuevo stock: 378
+2026-06-12 18:44:05 - TRANSACCIÓN EXITOSA
